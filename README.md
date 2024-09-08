@@ -1,4 +1,4 @@
-# The Future in Tech
+# The Future in Tech (A hands-on practice project from Ray Villalobos's lecture on Practical GitHub Actions)
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
